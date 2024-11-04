@@ -1,7 +1,7 @@
 <h1>Tata Consulting Services: Identity Access Management Tasks</h1>
 
 <h2>Description</h2>
-This repository is a list of tasks given by Tata Consulting Services (TCS) to strengthen security posture for companies via Identity Access Management (IAM). Such tasks include creating an IAM strategy assessment and checklist
+This repository is a list of tasks given by Tata Consulting Services (TCS) to strengthen security posture for companies via Identity Access Management (IAM). Such tasks include creating an IAM strategy assessment and checklist, creating custom IAM solutions, and integrating the IAM solution with the current IT infrastructure of TechCorps.
 <br />
 
 
