@@ -4,16 +4,6 @@
 This repository is a list of tasks given by Tata Consulting Services (TCS) to strengthen security posture for companies via Identity Access Management (IAM). Such tasks include creating an IAM strategy assessment and checklist, creating custom IAM solutions, and integrating the IAM solution with the current IT infrastructure of TechCorps.
 <br />
 
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
 <h2>Tasks:</h2>
 
 Task 1: Create checklist for IAM strategy and readiness <br/>
@@ -76,8 +66,8 @@ Best regards,
 Hadji Yono-Cruz
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Task 2: Design IAM solution  <br/>
+
 <br />
 <br />
 Enter the number of passes: <br/>
