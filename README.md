@@ -6,7 +6,7 @@ This repository is a list of tasks given by Tata Consulting Services (TCS) to st
 
 <h2>Tasks:</h2>
 
-Task 1: Create checklist for IAM strategy and readiness <br/>
+<h2>Task 1: Create checklist for IAM strategy and readiness</h2> <br/>
 Hello Ravi,
 
 Thank you for the summary on TechCorp Enterprises profiling and concerns. Here is the checklist concerning their IAM strategy and readiness.
@@ -66,7 +66,7 @@ Best regards,
 Hadji Yono-Cruz
 <br />
 <br />
-Task 2: Design IAM solution  <br/>
+<h2> Task 2: Design IAM solution </h2> <br/>
 The purpose of this document is to propose IAM (Identity and Access Management) solutions for TechCorp Enterprises to address critical requirements identified during the readiness assessment. These requirements focus on two main areas: enhancing user lifecycle management and strengthening access control mechanisms. Our goal is to streamline TechCorp’s operations, boost security, and align with the company’s broader business objectives.
 
 Overview of TechCorp’s Requirements
