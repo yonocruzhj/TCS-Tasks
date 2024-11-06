@@ -1,8 +1,15 @@
 <h1>Tata Consulting Services: Identity Access Management Tasks</h1>
 
 <h2>Description</h2>
-This repository is a list of tasks given by Tata Consulting Services (TCS) to strengthen security posture for companies via Identity Access Management (IAM). Such tasks include creating an IAM strategy assessment and checklist, creating custom IAM solutions, and integrating the IAM solution with the current IT infrastructure of TechCorps.
+This repository is a list of tasks given by Tata Consulting Services (TCS) to strengthen security posture for companies via Identity Access Management (IAM). Such tasks include creating an IAM strategy assessment and checklist, creating custom IAM solutions, and integrating the IAM solution with the current IT infrastructure of TechCorps. 
+Project objective: Implement an IAM (Identity and Access Management) solution for TechCorp Enterprises to address identified challenges in user lifecycle management and access control. The solution will streamline onboarding/offboarding, enhance access security through RBAC, SSO, MFA, and ABAC, and align with TechCorp’s business goals of increasing operational efficiency and data security.
+Scope: The IAM implementation project will cover user provisioning, access control, system integrations, and data synchronization across cloud and on-premises systems, ensuring that TechCorp’s access management infrastructure is robust, efficient, and secure.
+
+
 <br />
+<h2>Project Objective</h2> Implement an IAM (Identity and Access Management) solution for TechCorp Enterprises to address identified challenges in user lifecycle management and access control. The solution will streamline onboarding/offboarding, enhance access security through RBAC, SSO, MFA, and ABAC, and align with TechCorp’s business goals of increasing operational efficiency and data security.
+
+<h2>Scope</h2>The IAM implementation project will cover user provisioning, access control, system integrations, and data synchronization across cloud and on-premises systems, ensuring that TechCorp’s access management infrastructure is robust, efficient, and secure.
 
 <h2>Goals</h2>
 
@@ -151,7 +158,7 @@ The proposed IAM solutions for TechCorp are designed to enhance security, stream
 
 <br />
 <br />
-Task 2: Create a presentation for Integration Plan:<br/>
+Task 3: Present Integration Plan:<br/>
 <img src="https://imgur.com/DqElpHi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/RgwCv09.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/T3xE2pe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -171,12 +178,6 @@ Task 2: Create a presentation for Integration Plan:<br/>
 <br />
 
 <h2>Summary</h2>
-Project Title: TechCorp Enterprises IAM Solution Implementation
-
-Project Objective: Implement an IAM (Identity and Access Management) solution for TechCorp Enterprises to address identified challenges in user lifecycle management and access control. The solution will streamline onboarding/offboarding, enhance access security through RBAC, SSO, MFA, and ABAC, and align with TechCorp’s business goals of increasing operational efficiency and data security.
-
-Scope: The IAM implementation project will cover user provisioning, access control, system integrations, and data synchronization across cloud and on-premises systems, ensuring that TechCorp’s access management infrastructure is robust, efficient, and secure.
-
 Outcome:
 The successful implementation of this IAM solution will enable TechCorp to:
 1. Automate user access processes to minimize manual effort and reduce security gaps.
