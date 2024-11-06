@@ -143,8 +143,22 @@ The proposed IAM solutions for TechCorp are designed to enhance security, stream
 
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src=".png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Task 2: Create a presentation for Integration Plan:<br/>
+<img src="https://imgur.com/DqElpHi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/RgwCv09.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/T3xE2pe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/5Bb7ioC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/3anfzEq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Opr4LQ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/xp2EFRn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/6m6ClGl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/AJrgWFX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/0URbnI4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/WbktX8F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/mIYFWxZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/INX3ysU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/EGRI6dC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <br />
 <br />
 
