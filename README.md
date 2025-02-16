@@ -2,8 +2,6 @@
 
 <h2>Description</h2>
 This repository is a list of tasks given by Tata Consulting Services (TCS) to strengthen security posture for companies via Identity Access Management (IAM). Such tasks include creating an IAM strategy assessment and checklist, creating custom IAM solutions, and integrating the IAM solution with the current IT infrastructure of TechCorps. 
-Project objective: Implement an IAM (Identity and Access Management) solution for TechCorp Enterprises to address identified challenges in user lifecycle management and access control. The solution will streamline onboarding/offboarding, enhance access security through RBAC, SSO, MFA, and ABAC, and align with TechCorp’s business goals of increasing operational efficiency and data security.
-Scope: The IAM implementation project will cover user provisioning, access control, system integrations, and data synchronization across cloud and on-premises systems, ensuring that TechCorp’s access management infrastructure is robust, efficient, and secure.
 
 
 <br />
